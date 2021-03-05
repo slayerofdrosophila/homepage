@@ -1,4 +1,4 @@
-`
+
 // Name: Joshua Liu
 // COSI 12b, Spring 2021
 // Programming Assignment 2
@@ -245,4 +245,3 @@ public class DNA {
 	}
 	
 }
-`
